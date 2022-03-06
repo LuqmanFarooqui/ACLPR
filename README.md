@@ -25,5 +25,4 @@ Output for Indian number plate recognition:
 ### Notes:
 - This is my extension of the repository [here](https://github.com/DoubangoTelecom/ultimateALPR-SDK).
 - Details about this implementation can be found [here](https://drive.google.com/file/d/1RGl8_tvvNc0AJ8pIfps6UNyp_uan5Gai/view?usp=sharing).
-[]: # (- Videos for the same can be found [here](https://www.youtube.com/channel/UCOTbwn7ErrgyYGabhTwlXFw).)
-
+<!-- - Videos for the same can be found [here](https://www.youtube.com/channel/UCOTbwn7ErrgyYGabhTwlXFw). -->
