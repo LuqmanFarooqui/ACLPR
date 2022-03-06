@@ -18,7 +18,7 @@ Sample of video output for video input:
 
 Output for Indian number plate recognition:
 
-<img src="images/indian_plate.png" alt="indian plate" width="1280" height="720"/>
+<img src="images/indian_plate.png" alt="indian plate" width="700" height="400"/>
 
 
 
