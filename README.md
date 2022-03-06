@@ -10,15 +10,15 @@
 
 Output on an image input:
 
-<img src="images/multi_out.jpg" alt="multi out" width="400" height="166"/>
+<img src="images/multi_out.jpg" alt="multi out" width="700" height="393"/>
 
 Sample of video output for video input:
 
-<img src="images/car_counter.png" alt="car counter" width="400" height="166"/>
+<img src="images/car_counter.png" alt="car counter" width="700" height="393"/>
 
 Output for Indian number plate recognition:
 
-<img src="images/indian_plate.png" alt="indian plate" width="700" height="400"/>
+<img src="images/indian_plate.png" alt="indian plate" width="700" height="393"/>
 
 
 
