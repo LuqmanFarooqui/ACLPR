@@ -21,11 +21,12 @@ Sample of video output for video input:
 
 <img src="images/car_counter.png" alt="car counter" width="700" height="393"/>
 
-Output for Indian number plate recognition:
+<!-- Output for Indian number plate recognition:
 
-<img src="images/indian_plate.png" alt="indian plate" width="700" height="393"/>
+<img src="images/indian_plate.png" alt="indian plate" width="700" height="393"/> -->
 
 One of the paramters analyzed - Sizewise distribution for Indian cars:
+
 (As expected, the size of small cars are more than others. But large cars being more than medium cars is interesting to note.)
 
 <img src="images/Size_India.png" alt="indian size distribution" width="700" height="393"/>
