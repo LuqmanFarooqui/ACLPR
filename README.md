@@ -27,11 +27,10 @@ Sample of video output for video input:
 
 One of the paramters analyzed - Sizewise distribution for Indian cars:
 
-(As expected, the size of small cars are more than others. But large cars being more than medium cars is interesting to note.)
-
 <img src="images/Size_India.png" alt="indian size distribution" width="700" height="393"/>
 
 
+As expected, the size of small cars are more than others. But large cars being more than medium cars is interesting to note.
 
 <!-- ### Notes: -->
 <!-- - Videos for the same can be found [here](https://www.youtube.com/channel/UCOTbwn7ErrgyYGabhTwlXFw). -->
